@@ -5,6 +5,7 @@
  - I'm currently an Intern in Intel Corporation, working on next-gen silicon photonic devices. 
  - Pursuing PhD in Electrical Engineering 
  - Developed various photonic biosensor assays - both waveguide interferometric and colorimetric. 
+ - Made flat lenses 
 <!--
 **tahmidhassan/tahmidhassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
