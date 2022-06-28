@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-#### I'm Tahmid, an Electrical Engineer currently pursuing PhD.
+#### I'm Tahmid
 
  - I'm currently an R&D Engineer at Intel Corporation, working on next-gen silicon photonic devices. 
  - Have a PhD in Electrical Engineering 
