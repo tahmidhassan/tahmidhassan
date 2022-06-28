@@ -2,8 +2,9 @@
 
 #### I'm Tahmid, an Electrical Engineer currently pursuing PhD.
 
- - I'm currently an Intern in Intel Corporation, working on next-gen silicon photonic devices. 
- - Pursuing PhD in Electrical Engineering 
+ - I'm currently an R&D Engineer at Intel Corporation, working on next-gen silicon photonic devices. 
+ - Have a PhD in Electrical Engineering 
+ - I can write code to peform almost anything - however inefficient it may be 
  - Developed various photonic biosensor assays - both waveguide interferometric and colorimetric. 
  - Process developed an imprint process to directly imprint micron scale flat lenses 
  
